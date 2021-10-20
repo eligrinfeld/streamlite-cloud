@@ -126,14 +126,5 @@ Html_file.write(html_str)
 Html_file.close()
 
 
-# In[17]:
-
-
-pwd
-
-
-# In[ ]:
-
-
 
 
